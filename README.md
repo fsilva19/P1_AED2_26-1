@@ -18,6 +18,7 @@ Foi utilizado o ambiente do Google Colab para desenvolvimento e hospedagem do no
 
 ### 3. Etapas do processamento
 De forma resumida, estão listadas, abaixo, as etapas do processamento do código desenvolvido.
+> Link para o Notebook Jupyter
 1) Extração do texto dos arquivos em PDF.
 2) Limpeza das informações, removendo termos, ruídos, imagens, links e paginações desnecessárias para a análise, como cabeçalhos, rodapés e marcas d'água. 
 3) Padronização de termos com variações ortográficas ou abreviações, a fim de evitar a criação de múltiplas entidades para um mesmo conceito.
