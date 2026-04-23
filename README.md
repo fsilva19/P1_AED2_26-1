@@ -65,8 +65,8 @@ Como forma de analisar a rede, foram extraídas algumas métricas do Grafo compl
 ### Contextualizando os resultados
 Com a tabela abaixo, conseguimos identificar as 10 entidades com maiores conexões. 
 
-- A métrica 'Intermediação (Ponte)' entra nesse cenário indicando um valor referente à entidade faz uma ponte para as demais entidades. 
-- A métrica 'Proximidade (Centro)' apresenta o termo central da rede. 
+- Intermediação (Ponte): Mede o controle de fluxo, identificando as entidades que servem como elos indispensáveis entre diferentes grupos da rede.
+- Proximidade (Centro): Indica a 'velocidade' de comunicação, destacando os nós que alcançam todos os outros atores com o menor número de saltos. 
 </br>
 
 #### RANKING TOP 10 ENTIDADES MAIS CONECTADAS
