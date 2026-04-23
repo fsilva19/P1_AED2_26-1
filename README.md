@@ -40,7 +40,7 @@ Como forma de analisar a rede, foram extraídas algumas métricas do Grafo compl
 - **Nó principal:** diz respeito ao maior caminho do grafo.
 - **Número de nós:** corresponde à quantidade de elementos na rede.
 - **Número de arestas:** corresponde à quantidade de conexões (correlações) entre os elementos.
-- **Grau médio:** informa média dos graus (quantidade de conexões) de cada elemento.
+- **Grau médio:** informa a média dos graus (quantidade de conexões) de cada elemento.
 - **Densidade:** representa a razão entre o número de arestas do grafo e o número máximo de conexões.
 
 #### ANÁLISE DAS MÉTRICAS DA REDE
