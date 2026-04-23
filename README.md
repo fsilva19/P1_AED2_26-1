@@ -28,6 +28,10 @@ De forma resumida, estão listadas, abaixo, as etapas do processamento do códig
 7) Análise dos resultados obtidos à nível técnico dos grafos e entidades nomeadas.
 8) Análise dos resultados obtidos à nível de contexto, entendendo quais atores possuem maior importância aos casos.
 
+### Grafo
+Abaixo, mostra-se o grafo gerado do nó principal da rede. Os nós estão dimensionados de acordo com o grau de conexões de cada entidade, bem como agrupados por classe e separados por cores.
+
+<img width="1000" height="700" alt="grafo" src="https://github.com/user-attachments/assets/e49db5c3-55a5-47f7-a946-4f425b917f47" />
 
 ## 4. Resultados e conclusões
 ### Análise dos resultados
@@ -57,3 +61,38 @@ Como forma de analisar a rede, foram extraídas algumas métricas do Grafo compl
 #### GRÁFICO COMPARATIVO
 
 <img width="1340" height="525" alt="newplot" src="https://github.com/user-attachments/assets/268720a0-ff0e-4564-8ed6-8107ea928bb6" />
+
+### Contextualizando os resultados
+Com a tabela abaixo, conseguimos identificar as 10 entidades com maiores conexões. 
+
+- A métrica 'Intermediação (Ponte)' entra nesse cenário indicando um valor referente à entidade faz uma ponte para as demais entidades. 
+- A métrica 'Proximidade (Centro)' apresenta o termo central da rede. 
+</br>
+
+#### RANKING TOP 10 ENTIDADES MAIS CONECTADAS
+
+| Entidade | Grau (Conexões) | Intermediação (Ponte) ↓ | Proximidade (Centro) |
+| :--- | :---: | :---: | :---: |
+| **Regime Próprio de Previdência Social** | 41 | **0.412** | 0.578 |
+| **Fundo Texas** | 37 | **0.310** | 0.541 |
+| **São Paulo** | 31 | **0.215** | 0.529 |
+| **Brodowski** | 28 | **0.205** | 0.525 |
+| **Banco Central do Brasil** | 20 | **0.096** | 0.452 |
+| **Banco Master** | 12 | **0.076** | 0.432 |
+| **Comitê de Investimentos** | 16 | **0.069** | 0.412 |
+| **DAIR (Investimento de Recursos)** | 12 | **0.054** | 0.412 |
+| **Política de Investimentos** | 18 | **0.050** | 0.463 |
+| **São Roque** | 18 | **0.035** | 0.383 |
+
+- Para as duas métricas acima, o termo **'Regime Próprio de Previdência Social'** aparece como a entidade com os maiores valores, ou seja, é o termo que mais faz relação com outras entidades e é o tema central nos três arquivos.
+- Em segunda lugar no ranking, temos o termo **'Fundo Texas'**, com valores próximos ao primeiro lugar.
+
+#### TOP 10 ENTIDADES COM MAIORES GRAUS
+
+<img width="1200" height="525" alt="10maiores" src="https://github.com/user-attachments/assets/13090279-1753-474c-8804-d7b58cc38086" />
+
+> **Em conclusão, pode-se admitir que os processos judiciais analisados pelo MPC-SP têm como eixo central a investigação de valores milionários investidos, majoritariamente, no Fundo Texas. As evidências encontradas apontam que os principais atores afetados são os Institutos de Previdência Municipal (RPPS), cujos recursos utilizados foram expostos a grandes riscos financeiros. Embora não seja o ator principal em todos os processos, um grande risco identificado foi o aporte de altas quantias no Banco Master, instituição que esteve envolvida em irregularidades financeiras e judiciais nos últimos mesess.**
+
+
+
+
