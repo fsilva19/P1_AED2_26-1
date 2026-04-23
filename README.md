@@ -91,7 +91,7 @@ Com a tabela abaixo, conseguimos identificar as 10 entidades com maiores conexõ
 
 <img width="1200" height="525" alt="10maiores" src="https://github.com/user-attachments/assets/13090279-1753-474c-8804-d7b58cc38086" />
 
-> **Em conclusão, pode-se admitir que os processos judiciais analisados pelo MPC-SP têm como eixo central a investigação de valores milionários investidos, majoritariamente, no Fundo Texas. As evidências encontradas apontam que os principais atores afetados são os Institutos de Previdência Municipal (RPPS), cujos recursos utilizados foram expostos a grandes riscos financeiros. Embora não seja o ator principal em todos os processos, um grande risco identificado foi o aporte de altas quantias no Banco Master, instituição que esteve envolvida em irregularidades financeiras e judiciais nos últimos mesess.**
+> **Em conclusão, pode-se admitir que os processos judiciais analisados pelo MPC-SP têm como eixo central a investigação de valores milionários investidos, majoritariamente, no Fundo Texas. As evidências encontradas apontam que os principais atores afetados são os Institutos de Previdência Municipal (RPPS), cujos recursos utilizados foram expostos a grandes riscos financeiros. Embora não seja o ator principal em todos os processos, um grande risco identificado foi o aporte de altas quantias no Banco Master, instituição que esteve envolvida em irregularidades financeiras e judiciais nos últimos meses.**
 
 
 
