@@ -29,7 +29,7 @@ De forma resumida, estão listadas, abaixo, as etapas do processamento do códig
 8) Análise dos resultados obtidos à nível de contexto, entendendo quais atores possuem maior importância aos casos.
 
 ### Grafo
-Abaixo, mostra-se o grafo gerado do nó principal da rede. Os nós estão dimensionados de acordo com o grau de conexões de cada entidade, bem como agrupados por classe e separados por cores.
+Abaixo, mostra-se o grafo gerado do nó principal da rede. Os nós estão dimensionados de acordo com o grau de conexões de cada entidade, bem como agrupados por classe e separados por cores para cada label: PER, LOC, ORG e MISC (Diversos).
 
 <img width="1000" height="700" alt="grafo" src="https://github.com/user-attachments/assets/e49db5c3-55a5-47f7-a946-4f425b917f47" />
 
